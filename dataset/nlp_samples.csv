@@ -1,0 +1,51 @@
+id,text,label
+1,"I loved the movie! The plot was engaging and the acting was great.",positive
+2,"The service at the restaurant was terrible; we waited an hour.",negative
+3,"An average experience overall, nothing special but not bad.",neutral
+4,"Absolutely fantastic performance by the lead singer last night!",positive
+5,"I wouldn't recommend this product; it broke after two days.",negative
+6,"The tutorial was clear and concise, I learned a lot.",positive
+7,"Traffic was awful this morning and made me late to work.",negative
+8,"The weather is fine today, not too hot and not too cold.",neutral
+9,"Customer support responded quickly and fixed my issue.",positive
+10,"This app crashes often and loses my data. Very frustrating.",negative
+11,"The new coffee blend is decent, though I prefer the classic.",neutral
+12,"Her presentation was inspiring and well structured.",positive
+13,"The package arrived damaged and parts were missing.",negative
+14,"The room was okay, clean but a bit noisy at night.",neutral
+15,"What a delightful surprise: free upgrades for all attendees!",positive
+16,"The instructions were confusing and hard to follow.",negative
+17,"The book was fine, but the ending felt rushed.",neutral
+18,"He handled the negotiation brilliantly and closed the deal.",positive
+19,"My flight was delayed and the airline offered no explanation.",negative
+20,"The lecture was informative, covering the basics thoroughly.",neutral
+21,"I'm thrilled with the results; exceeded my expectations!",positive
+22,"The food was cold and bland when it finally arrived.",negative
+23,"The event was okay: good turnout, average talks, decent snacks.",neutral
+24,"Her kindness really made my day much better.",positive
+25,"The headphones stopped working within a week of purchase.",negative
+26,"The interface is straightforward once you get used to it.",neutral
+27,"They went above and beyond to help us move in.",positive
+28,"Support ignored my emails for days and then closed the ticket.",negative
+29,"The room temperature was acceptable for most participants.",neutral
+30,"Fantastic deal! High quality at a very reasonable price.",positive
+31,"The update introduced new bugs and slowed everything down.",negative
+32,"The documentary was fine, though a bit longer than necessary.",neutral
+33,"I'm impressed by how fast the shipping was; arrived a day early!",positive
+34,"The keyboard keys keep sticking and it's annoying to type.",negative
+35,"Results were consistent across trials, as expected.",neutral
+36,"That concert was unforgettable; the crowd's energy was electric!",positive
+37,"The mattress is lumpy and I wake up with back pain.",negative
+38,"Schedule looks manageable this week, nothing too demanding.",neutral
+39,"The new feature saves me hours: great productivity boost!",positive
+40,"The website keeps timing out and I can't complete checkout.",negative
+41,"The meeting was fine; we covered all agenda items.",neutral
+42,"Such a heartwarming story; it made me smile for hours.",positive
+43,"The print quality is poor and the colors are washed out.",negative
+44,"The seminar met expectations but didn't offer new insights.",neutral
+45,"Amazing hospitality; felt welcome from the moment I arrived.",positive
+46,"I regret buying this: overpriced and underperforming.",negative
+47,"The demo was acceptable, but we need more detailed metrics.",neutral
+48,"Best purchase this year; works flawlessly and looks great.",positive
+49,"The battery life is disappointing and barely lasts a day.",negative
+50,"Overall, it's fine for the price point, though not outstanding.",neutral
